@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio,postman" />
+    <img src="https://skillicons.dev/icons?i=bash,codepen,git,github,heroku,netlify,powershell,vscode,visualstudio,postman" />
   </a>
 </p>
 
