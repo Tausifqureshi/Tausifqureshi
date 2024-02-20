@@ -10,7 +10,7 @@
 <br>
 - 📫 How to reach me ... tausifqureshi504@gmail.com
 <br>
-- 🙋‍♂ All about me is at *[My Website](https://tausifporfolio-website.netlify.app/)*
+- 🙋‍♂ All about me is at *[My Website]https://tausifporfolio-website.netlify.app/
 <br>
 <!---
 Tausifqureshi/Tausifqureshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
