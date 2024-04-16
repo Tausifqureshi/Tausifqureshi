@@ -1,12 +1,13 @@
 <h1 align="center">Hi there! I'm Tausif Qureshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>I am a Front End React Developer </h1>
  <br>
 - 👋 Hi, I’m @Tausifqureshi
 <br>
-- 👀 I’m interested in ...
+- 👀 I’m interested in MERN stack
 <br>
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Back-end
 <br>
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open source project
 <br>
 - 📫 How to reach me ... tausifqureshi504@gmail.com
 <br>
