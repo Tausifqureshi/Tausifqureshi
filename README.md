@@ -1,18 +1,18 @@
 <h1 align="center">Hi there! I'm Tausif Qureshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center" margin= "0px">I am a Front End React Developer </h3>
  <br>
-- 👋 Hi, I’m @Tausifqureshi
-<br>
+- 👋 Hi, I’m @Tausif Qureshi
+<br>  <br>
 - 👀 I’m interested in MERN stack
-<br>
+<br>  <br>
 - 🌱 I’m currently learning Back-end
-<br>
+<br>  <br>
 - 💞️ I’m looking to collaborate on Open source project
-<br>
+<br>  <br>
 - 📫 How to reach me ... tausifqureshi504@gmail.com
-<br>
+<br>  <br>
 - 🙋‍♂ All about me is at *[My Website]https://tausifporfolio-website.netlify.app/
-<br>
+<br>  <br>
 <!---
 Tausifqureshi/Tausifqureshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
