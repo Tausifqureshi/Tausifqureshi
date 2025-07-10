@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
+{/* <h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=F97316&width=500&lines=React+Developer+%7C+MERN+Stack+Enthusiast;Front-End+Web+Engineer+%7C+UI+Specialist;Always+Learning+%7C+Open+to+Collaboration" alt="Typing SVG" />
@@ -83,8 +83,10 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=flat&no-frame=true&margin-w=5&row=1&column=6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00BFFF&width=500&lines=Frontend+Developer;Frontend+Engineer;React+Developer" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -101,3 +103,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100" />
 </p>
+ */}
