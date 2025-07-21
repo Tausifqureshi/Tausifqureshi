@@ -1,8 +1,5 @@
 
 
-
-
-
 <h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
 
 <p align="center">
@@ -86,11 +83,8 @@
 ---
 
 ## 🏆 GitHub Achievements
-
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
-
 </div>
 
 
