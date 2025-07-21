@@ -1,10 +1,11 @@
- <h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
+
+
+
+<h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F97316&width=800&lines=Frontend+Web+Developer+%7C+React+Specialist;Creating+User+Interfaces+with+React;Currently+Learning+MERN+Stack" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
@@ -18,12 +19,12 @@
 
 <h3>🚀 Web Engineer | React Frontend Developer | MERN Stack Explorer</h3>
 
-- 🔥 I craft dynamic, responsive UIs using <b>React.js</b>  
-- 🎯 Currently diving deeper into <b>Node.js, Express & MongoDB</b>  
-- 💼 Strong foundation in <b>HTML5, CSS3, JavaScript, Tailwind, Redux</b>  
-- 🛠️ Passionate about <b>performance, accessibility & UI/UX</b>  
-- 🤝 Actively contributing to <b>open source & collaborative projects</b>  
-- 📫 Email: [tausifqureshi504@gmail.com](mailto:tausifqureshi504@gmail.com)  
+- 🔥 Crafting dynamic, scalable UIs with <strong>React.js</strong>
+- 📦 Exploring <strong>Node.js, Express.js & MongoDB</strong>
+- 🛠️ Proficient in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux</strong>
+- 🎯 Passionate about <strong>UI/UX, performance optimization & clean code</strong>
+- 👨‍💻 Committed to <strong>open-source contributions & continuous learning</strong>
+- 📫 Reach me at: [tausifqureshi504@gmail.com](mailto:tausifqureshi504@gmail.com)
 - 🌐 Portfolio: [tausifporfolio-website.netlify.app](https://tausifporfolio-website.netlify.app)
 
 </td>
@@ -49,7 +50,7 @@
 ## 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,netlify,heroku,codepen,bash" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,netlify,vercel,heroku,codepen,bash" />
 </p>
 
 ---
@@ -84,9 +85,11 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00BFFF&width=500&lines=Frontend+Developer;Frontend+Engineer;React+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
+
+</div>
 
 
 
@@ -105,4 +108,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100" />
 </p>
- */}
+
