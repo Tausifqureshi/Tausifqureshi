@@ -14,7 +14,7 @@
 
 - 🚀 Frontend Developer | React Specialist | Learning Backend  
 - 🔥 Building fast, scalable UI with <strong>React.js</strong>
-- 🛠️ Strong foundation in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux</strong>
+- 🛠️ Strong foundation in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind, Redux</strong>
 - 🎯 Passionate about **UI/UX design, web performance & clean architecture**  
 - 📦 Currently learning backend using <strong>Node.js, Express.js & MongoDB</strong> 
 - 👨‍💻 Always learning & building projects to <strong> improve as a developer </strong>
