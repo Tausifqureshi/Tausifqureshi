@@ -1,10 +1,8 @@
 <h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1500&center=true&vCenter=true&color=22D3EE&width=850&lines=Frontend+Developer+%7C+React+Specialist;Building+Scalable+and+Modern+Web+Interfaces;Proficient+in+React,+JavaScript,+and+Tailwind+CSS;Currently+Exploring+Node.js+and+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F97316&width=800&lines=Frontend+Web+Developer+%7C+React+Specialist;Creating+User+Interfaces+with+React;Exploring+Backend+with+Node,+Express+%26+MongoDB" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
@@ -14,10 +12,10 @@
 
 - 🚀 Frontend Developer | React Specialist | Learning Backend  
 - 🔥 Building fast, scalable UI with <strong>React.js</strong>
-- 🛠️ Strong foundation in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind, Redux</strong>
+- 🛠️ Strong foundation in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux</strong>
 - 🎯 Passionate about **UI/UX design, web performance & clean architecture**  
-- 📦 Currently learning backend using <strong>Node.js, Express.js & MongoDB</strong> 
-- 👨‍💻 Always learning & building projects to <strong> improve as a developer </strong>
+- 📦 Currently learning backend development using <strong>Node.js, Express.js & MongoDB</strong> 
+- 👨‍💻 Always learning & building to <strong>improve as a developer</strong> 
 - 📫 Reach me at: [tausifqureshi504@gmail.com](mailto:tausifqureshi504@gmail.com)  
 - 🌐 Portfolio: [tausifporfolio-website.netlify.app](https://tausifporfolio-website.netlify.app)  
 
@@ -68,10 +66,10 @@
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&title=Stars,Followers,Repositories,Commits,PullRequest,Issues,Discussions" width="100%" />
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
+</p>
 
 ---
 
@@ -87,4 +85,4 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100" />
-</p>
+</p> 
