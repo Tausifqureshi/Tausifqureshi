@@ -1,10 +1,9 @@
-
-
 <h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F97316&width=800&lines=Frontend+Web+Developer+%7C+React+Specialist;Creating+User+Interfaces+with+React;Currently+Learning+MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F97316&width=800&lines=Frontend+Web+Developer+%7C+React+Specialist;Creating+User+Interfaces+with+React;Exploring+Backend+with+Node,+Express+%26+MongoDB" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -16,13 +15,13 @@
 <!-- LEFT SIDE -->
 <td width="55%" valign="top">
 
-<h3>🚀 Web Engineer | React Frontend Developer | MERN Stack Explorer</h3>
+<h3>🚀 Frontend Developer | React Specialist | Learning Backend</h3>
 
-- 🔥 Crafting dynamic, scalable UIs with <strong>React.js</strong>
-- 📦 Exploring <strong>Node.js, Express.js & MongoDB</strong>
-- 🛠️ Proficient in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux</strong>
-- 🎯 Passionate about <strong>UI/UX, performance optimization & clean code</strong>
-- 👨‍💻 Committed to <strong>open-source contributions & continuous learning</strong>
+- 🔥 Building fast, scalable UIs with <strong>React.js</strong>
+- 🛠️ Strong foundation in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux</strong>
+- 🎯 Passionate about <strong>UI/UX design, web performance & clean architecture</strong>
+- 📦 Currently learning backend development using <strong>Node.js, Express.js & MongoDB</strong>
+- 👨‍💻 Always learning & building to <strong>improve as a developer</strong>
 - 📫 Reach me at: [tausifqureshi504@gmail.com](mailto:tausifqureshi504@gmail.com)
 - 🌐 Portfolio: [tausifporfolio-website.netlify.app](https://tausifporfolio-website.netlify.app)
 
@@ -86,8 +85,6 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
 </div>
-
-
 
 ---
 
