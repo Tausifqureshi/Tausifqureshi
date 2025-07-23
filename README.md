@@ -16,7 +16,7 @@
 - 🔥 Building fast, scalable UI with <strong>React.js</strong>
 - 🛠️ Strong foundation in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux</strong>
 - 🎯 Passionate about **UI/UX design, web performance & clean architecture**  
-- 📦 Currently learning backend development using <strong>Node.js, Express.js & MongoDB</strong> 
+- 📦 Currently learning backend using <strong>Node.js, Express.js & MongoDB</strong> 
 - 👨‍💻 Always learning & building to <strong>improve as a developer</strong> 
 - 📫 Reach me at: [tausifqureshi504@gmail.com](mailto:tausifqureshi504@gmail.com)  
 - 🌐 Portfolio: [tausifporfolio-website.netlify.app](https://tausifporfolio-website.netlify.app)  
