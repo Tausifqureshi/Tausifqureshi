@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Tausif Qureshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F97316&width=800&lines=Frontend+Web+Developer+%7C+React+Specialist;Creating+User+Interfaces+with+React;Exploring+Backend+with+Node,+Express+%26+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=22D3EE&width=750&lines=Frontend+Developer+%7C+React+Specialist;Crafting+beautiful+UIs+with+React+%26+Tailwind;Learning+Backend+with+Node.js+%2B+MongoDB;Clean+Code+%7C+UI%2FUX+%7C+Performance+Matters" alt="Typing SVG" />
 </p>
+
 
 ---
 
