@@ -4,36 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F97316&width=800&lines=Frontend+Web+Developer+%7C+React+Specialist;Creating+User+Interfaces+with+React;Exploring+Backend+with+Node,+Express+%26+MongoDB" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev-gif" align="right" width="300" />
 
-<!-- LEFT SIDE -->
-<td width="55%" valign="top">
-
-<h3>🚀 Frontend Developer | React Specialist | Learning Backend</h3>
-
-- 🔥 Building fast, scalable UIs with <strong>React.js</strong>
+- 🚀 Frontend Developer | React Specialist | Learning Backend  
+- 🔥 Building fast, scalable UI with <strong>React.js</strong>
 - 🛠️ Strong foundation in <strong>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux</strong>
-- 🎯 Passionate about <strong>UI/UX design, web performance & clean architecture</strong>
-- 📦 Currently learning backend development using <strong>Node.js, Express.js & MongoDB</strong>
-- 👨‍💻 Always learning & building to <strong>improve as a developer</strong>
-- 📫 Reach me at: [tausifqureshi504@gmail.com](mailto:tausifqureshi504@gmail.com)
-- 🌐 Portfolio: [tausifporfolio-website.netlify.app](https://tausifporfolio-website.netlify.app)
-
-</td>
-
-<!-- RIGHT SIDE -->
-<td width="45%">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev-gif" width="100%" />
-</td>
-
-</tr>
-</table>
+- 🎯 Passionate about **UI/UX design, web performance & clean architecture**  
+- 📦 Currently learning backend development using <strong>Node.js, Express.js & MongoDB</strong> 
+- 👨‍💻 Always learning & building to <strong>improve as a developer</strong> 
+- 📫 Reach me at: [tausifqureshi504@gmail.com](mailto:tausifqureshi504@gmail.com)  
+- 🌐 Portfolio: [tausifporfolio-website.netlify.app](https://tausifporfolio-website.netlify.app)  
 
 ---
 
@@ -82,9 +66,10 @@
 ---
 
 ## 🏆 GitHub Achievements
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
-</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
+</p>
 
 ---
 
