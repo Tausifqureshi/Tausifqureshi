@@ -68,10 +68,10 @@
 ---
 
 ## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tausifqureshi&theme=gruvbox&title=Stars,Followers,Repositories,Commits,PullRequest,Issues,Discussions" width="100%" />
 </p>
+
 
 ---
 
